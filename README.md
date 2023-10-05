@@ -3,7 +3,7 @@
 This is a suite of useful tools for epitope prediction, which will allow users to handle different common tasks within these two big fields. The main language is python, with some scripts in R, and therefore can be easily extended and modified. 
 
 
-If you have any questions about our tools, ask them in the **issues section** or to CORNEJO-VILLANUEVA G email: victor.cornejo@unmsm.edu.pe who is the main developer.
+If you have any questions about our tools, ask them in the **issues section** or to CORNEJO-VILLANUEVA V email: victor.cornejo@unmsm.edu.pe who is the main developer.
 
 ## Contributors
 Those who contribute to this repo can either place their name here (via a pull request) or ask to be added to the main developer.
