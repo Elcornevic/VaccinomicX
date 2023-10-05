@@ -1,6 +1,6 @@
 # VaccinomicX: An Immunoinformatics tool for Epitope Prediction
 <div style="text-align: justify">
-This is a suite of useful tools for epitope prediction, which will allow users to handle different common tasks within these two big fields. The main language is python, with some scripts in R, and therefore can be easily extended and modified. 
+This is a suite of useful tools for epitope prediction in viral organisms, which will allow users to easily and automatically deal with different common tasks within these big field, from target identification and selection to molecular docking studies. The main language is python, with some scripts in R, and therefore can be easily extended and modified. 
 
 
 If you have any questions about our tools, ask them in the **issues section** or to CORNEJO-VILLANUEVA V email: victor.cornejo@unmsm.edu.pe who is the main developer.
