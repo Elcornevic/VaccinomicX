@@ -10,8 +10,11 @@ Those who contribute to this repo can either place their name here (via a pull r
 
 ## Clone the repository 
 ```bash
-git clone git@github.com:groponp/xDynMol.git
+git clone git@github.com:Elcornevic/VaccinomicX.git
 ```
+
+## License 
+[GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
 ## Disclaimer
 Icons in this repo were taken from [flaticon](https://www.flaticon.com/free-icons/programming-language) 
